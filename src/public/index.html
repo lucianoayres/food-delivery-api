@@ -1,0 +1,18 @@
+<html>
+  <!-- CORS (Cross-Origin Resource Sharing) Test
+    instructions: 
+    1. start the application server on 'localhost:3000'
+    2. open this .html file on a browser tab
+    3. check Inspect Panel 'Console' -> 'Requests' to check response
+  -->
+  <script>
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+      if (this.readyState == 4 && this.status == 200) {
+        console.log(this);
+      }
+    };
+    xhttp.open("GET", "http://localhost:3000/api/sales");
+    xhttp.send();
+  </script>
+</html>
