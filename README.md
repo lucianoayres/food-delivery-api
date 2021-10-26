@@ -46,4 +46,4 @@ Start the server and browse to: [http://localhost:3000/api/doc](http://localhost
 
 ## License
 
-[MIT License](https://github.com/esqb/brcoin/blob/main/LICENSE)
+[MIT License](https://github.com/lucianoayres/food-delivery-api/blob/main/LICENSE)
