@@ -1,7 +1,7 @@
 <br />
 <p align="center"><img src="https://user-images.githubusercontent.com/20209393/138795624-1c3d037e-ad73-4862-9315-d15926a71395.png" /></p>
 
-<h2 align="center">Proof of Concept (POC) for Delivery API in Node.JS</h2>
+<h2 align="center">Proof of Concept (POC) for Food Delivery API in Node.JS</h2>
 
 Project created to study the fundamentals of a food delivery API created with [Node.js](https://nodejs.org) and [Express framework](https://expressjs.com/).
 
