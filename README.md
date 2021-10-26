@@ -3,7 +3,7 @@
 
 <h2 align="center">Proof of Concept (POC) for Delivery API in Node.JS</h2>
 
-Project created to study the fundamentals of a food delivery API created with Node.JS and Express framework.
+Project created to study the fundamentals of a food delivery API created with [Node.js](https://nodejs.org) and [Express framework](https://expressjs.com/).
 
 ## Features
 
@@ -11,8 +11,8 @@ Project created to study the fundamentals of a food delivery API created with No
 - Order CRUD
 - Reports by Customer and Product
 - Sales Report
-- API Activity Logger with Winston
-- API Documentation Page with Swagger
+- API Activity Logger with [Winston](https://github.com/winstonjs/winston)
+- API Documentation Page with [Swagger](https://github.com/swagger-api/swagger-ui)
 
 ## Setup
 
